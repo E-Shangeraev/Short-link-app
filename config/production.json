@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://eldar:1234509876@cluster0.zfvkf.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000",
+  "jwtSecret": "shael1mern2"
+}
